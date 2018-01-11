@@ -11,11 +11,6 @@ The following is a general list about concepts implemented in this project:
 * JDBC
 * Printing using JavaFx.print
 
-The project works as I inteded it to work but the code could be optimized furthermore.</br>
-My goals to optimize the code are:
-* Deleting redundant code
-* Deleting unused code
-
 ## Introduction
 BankApplication is a project that consists of two programs that share a common code base.</br>
 The two programs are a GUI based Client that connects to Server program using Java RMI.
